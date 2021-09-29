@@ -56,6 +56,9 @@
     "sinon-chai": "^2.8.0",
     "url-loader": "^0.5.9"
   },
+  "engines": {
+    "node": "14.17.6"
+  },
   "repository": {
     "type": "git",
     "url": "git://"
